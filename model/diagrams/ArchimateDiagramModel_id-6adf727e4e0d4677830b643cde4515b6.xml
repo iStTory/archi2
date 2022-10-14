@@ -124,4 +124,15 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-440541842e404065a5f5a996106cb06a.xml#id-440541842e404065a5f5a996106cb06a"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-20b4a982098b4d3798935d274ba7b859"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="1005"
+        y="137"
+        width="400"
+        height="140"/>
+  </children>
 </archimate:ArchimateDiagramModel>
